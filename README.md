@@ -13,6 +13,7 @@ you successfully activated Identity Verification in Intercom.
 5) Paste the 8 characters into the input field Intercom Widget ID
 6) Enter a random User ID and a random Email Address
 7) Hit "Establish Chat"
+![alt text](./assets/img/2-sec-checker.png)
 
 ### you are secure
 if no Intercom chat icon appears 10 seconds after you clicked "Establish Chat".
