@@ -10,7 +10,7 @@ you successfully activated Identity Verification in Intercom.
 3) Enter "widget" in the Filter input field, and reload the website (Mac: command + R)
 4) Copy the 8 characters (sometimes more) in "Name" column (e.g. f5i5vfis as example below)
 ![alt text](./assets/img/1-widget.png)
-5) Paste the 8 characters into the input field Intercom Widget ID
+5) Paste the 8 characters into the input field Intercom Widget ID here: https://constructioncloud.github.io/intercom-security-checker/
 6) Enter a random User ID and a random Email Address
 7) Hit "Establish Chat"
 ![alt text](./assets/img/2-sec-checker.png)
